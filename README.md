@@ -1,6 +1,6 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
 ## Latar Belakang
-
+saya seorang programmer
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
 
