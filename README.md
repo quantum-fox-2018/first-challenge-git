@@ -3,7 +3,7 @@
 Pendidikan Terakhir : <br/>
 S2 Teknik Telekomunikasi Institut Teknologi Bandung<br/>
 Pekerjaan Terakhir :<br/>
-Elektrical Engineer PT. Krakatau Bandar Samudera<br/>  
+Electrical Engineer PT. Krakatau Bandar Samudera<br/>  
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
